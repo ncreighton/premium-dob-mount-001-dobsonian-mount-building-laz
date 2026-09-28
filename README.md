@@ -1,0 +1,2 @@
+# premium-dob-mount-001-dobsonian-mount-building-laz
+Stop losing track of your Dobsonian mount build and Lazy Susan craft project — this Notion template integrates every step from wood selection to final assembly, so you never miss a measurement or material again.  This template turns the chaos of managing two intertwined projects into a single, organized workspace. It combines a Dobsonian mount buil
